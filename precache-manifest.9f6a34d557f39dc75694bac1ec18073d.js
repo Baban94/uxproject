@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b657a1726a6fbfdbd03d5c51a7997040",
+    "revision": "c67397d544c9e49c130c9afd66b4f2f8",
     "url": "/uxproject/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uxproject/static/css/2.d38f0af1.chunk.css"
   },
   {
-    "revision": "bd6c37ff12caf79272b5",
-    "url": "/uxproject/static/css/main.d8c2c010.chunk.css"
+    "revision": "f0f90776d22696cf08c9",
+    "url": "/uxproject/static/css/main.576e29f8.chunk.css"
   },
   {
     "revision": "596297aef18d12a48a20",
     "url": "/uxproject/static/js/2.9f2c6771.chunk.js"
   },
   {
-    "revision": "bd6c37ff12caf79272b5",
-    "url": "/uxproject/static/js/main.ed6c754f.chunk.js"
+    "revision": "f0f90776d22696cf08c9",
+    "url": "/uxproject/static/js/main.743a7762.chunk.js"
   },
   {
     "revision": "1f59631bb1efcbed9682",
